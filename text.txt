@@ -1,0 +1,5 @@
+yarn vite react
+yarn add vite --dev
+yarn dev
+
+
